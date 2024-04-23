@@ -1,4 +1,4 @@
-# Ex.No: 6               HOLT WINTERS METHOD
+# Ex.No: 6                HOLT WINTERS METHOD
 ### Date: 10/04/2024
 
 
